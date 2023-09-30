@@ -313,20 +313,14 @@ h2 {
    /* pointer-events: none; */
 }
 
-.about:hover {
+.navbar-links:hover {
    text-decoration: underline;
    font-weight: 500;
    color: rgb(144, 185, 255);
 }
-.projects:hover {
-   text-decoration: underline;
-   font-weight: 500;
-   color: rgb(144, 185, 255);
-}
-.contact:hover {
-   text-decoration: underline;
-   font-weight: 500;
-   color: rgb(144, 185, 255);
+
+.header {
+   background-color: rgba(128, 128, 128, 0.363);
 }
 
 /* .box {
